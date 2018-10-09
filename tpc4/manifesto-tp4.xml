@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/Users/Joana/Desktop/plc/processamento_e_representa%C3%A7%C3%A3o_de_informa%C3%A7%C3%A3o/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TPC4</id>
+        <título>Gestão de um website utilizando servidores Node.js</título>
+        <subtítulo>Arquivo de Música Digital</subtítulo>
+        <dinício>08/10/2018</dinício>
+        <dfim>15/10/2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www4.di.uminho.pt/~jcr/</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A78275</id>
+            <nome>Joana Pereira</nome>
+            <email>a78275@alunos.uminho.pt</email>
+            <foto path="https://i.imgur.com/OvatUH5.png"/>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>O trabalho aqui introduzido aborda a utilização de servidores <i>web</i> para a gestão de um <i>website</i> sobre um Arquivo de Música Digital.</para>
+        <para>Inicialmente foi feita a especificação de uma <b>stylesheet</b> para a geração do <i>website</i>. Este contém um índice com todas as <i>obras</i> existentes ordenadas pelo seu tipo. Cada <i>obra</i> possui uma página <b>html</b> com as informações da mesma. Através do índice é possível aceder às diferentes <i>obras</i> através de um <i>link</i> do tipo <b>http://localhost:1150?id=<i>m_id</i></b>. O índice está referenciado com um <i>link</i> do tipo <b>http://localhost:1150/obras</b>. Desta forma, vamos utilizar estes <i>links</i> para, através do servidor, devolver as páginas quando solicitadas.</para>
+        <para>O servidor quando recebe um pedido, faz <i>parse</i> do <b>url</b> e, dependendo do seu tipo, devolve a página da obra ou do índice correspondente.</para>
+        <para>É possível aceder aos ficheiros no <i>link</i> <b>https://github.com/a78275/pri.git</b>.</para>
+    </resumo>
+    <resultados>
+        <resultado path="amd2html.xsl">XSLT do website do arquivo musical.</resultado>
+        <resultado path="amd.js">Servidor Node.js.</resultado>
+        <resultado path="website/index.html">Página inicial com o índice de obras.</resultado>
+    </resultados>
+</manifesto>
+
