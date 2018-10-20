@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obras>
+	<obra>
+		<id>m1</id>
+		<nome>Homenagem a J. Serra</nome>
+	</obra>
+	<obra>
+		<id>m10</id>
+		<nome>Senhora Nossa</nome>
+	</obra>
+	<obra>
+		<id>m101</id>
+		<nome>Juana de Arco</nome>
+	</obra>
+	<obra>
+		<id>m100</id>
+		<nome>Hispania</nome>
+	</obra>
+	<obra>
+		<id>m102</id>
+		<nome>Mais Alto e Mais Além</nome>
+	</obra>
+	<obra>
+		<id>m105</id>
+		<nome>São Sebastião</nome>
+	</obra>
+	<obra>
+		<id>m102</id>
+		<nome>Uma Flor Sobre o Túmulo</nome>
+	</obra>
+	<obra>
+		<id>m104</id>
+		<nome>Pela Lei e Pela Grei</nome>
+	</obra>
+	<obra>
+		<id>m107</id>
+		<nome>Infantes do 6</nome>
+	</obra>
+	<obra>
+		<id>m109</id>
+		<nome>Despedida</nome>
+	</obra>
+	<obra>
+		<id>m108</id>
+		<nome>Bodas de Diamante</nome>
+	</obra>
+	<obra>
+		<id>m106</id>
+		<nome>Industrial</nome>
+	</obra>
+	<obra>
+		<id>m11</id>
+		<nome>Invocação a Deus</nome>
+	</obra>
+	<obra>
+		<id>m110</id>
+		<nome>El Angel Blanco</nome>
+	</obra>
+	<obra>
+		<id>m111</id>
+		<nome>Três Oceanos</nome>
+	</obra>
+	<obra>
+		<id>m112</id>
+		<nome>Le Melre Blanc</nome>
+	</obra>
+	<obra>
+		<id>m113</id>
+		<nome>A Tribute To Harry James</nome>
+	</obra>
+	<obra>
+		<id>m114</id>
+		<nome>The Witch And The Saint</nome>
+	</obra>
+	<obra>
+		<id>m116</id>
+		<nome>Francisco Magalhães</nome>
+	</obra>
+	<obra>
+		<id>m115</id>
+		<nome>Presidente António Conde</nome>
+	</obra>
+	<obra>
+		<id>m117</id>
+		<nome>El Barbanha</nome>
+	</obra>
+	<obra>
+		<id>m118</id>
+		<nome>El Camino Real</nome>
+	</obra>
+	<obra>
+		<id>m12</id>
+		<nome>São Bento</nome>
+	</obra>
+	<obra>
+		<id>m121</id>
+		<nome>Paisagem Ribatejana</nome>
+	</obra>
+	<obra>
+		<id>m123</id>
+		<nome>La Forza Del Destino</nome>
+	</obra>
+	<obra>
+		<id>m122</id>
+		<nome>Suite de Natal</nome>
+	</obra>
+	<obra>
+		<id>m125</id>
+		<nome>Va Pensiero</nome>
+	</obra>
+	<obra>
+		<id>m124</id>
+		<nome>Aeternum</nome>
+	</obra>
+	<obra>
+		<id>m127</id>
+		<nome>Grand March</nome>
+	</obra>
+	<obra>
+		<id>m126</id>
+		<nome>The Spirit Of Christmas</nome>
+	</obra>
+	<obra>
+		<id>m128</id>
+		<nome>Hino de Vila Verde</nome>
+	</obra>
+	<obra>
+		<id>m129</id>
+		<nome>Hallelujah</nome>
+	</obra>
+	<obra>
+		<id>m13</id>
+		<nome>Casa de S. Paulo</nome>
+	</obra>
+	<obra>
+		<id>m131</id>
+		<nome>Alvamar Overture</nome>
+	</obra>
+	<obra>
+		<id>m130</id>
+		<nome>You Raise Me Up</nome>
+	</obra>
+	<obra>
+		<id>m14</id>
+		<nome>Filarmonia</nome>
+	</obra>
+	<obra>
+		<id>m15</id>
+		<nome>Caçadores do I</nome>
+	</obra>
+	<obra>
+		<id>m17</id>
+		<nome>Homenagem a Vila Verde</nome>
+	</obra>
+	<obra>
+		<id>m18</id>
+		<nome>12 de Abril</nome>
+	</obra>
+	<obra>
+		<id>m19</id>
+		<nome>Tarântula</nome>
+	</obra>
+	<obra>
+		<id>m2</id>
+		<nome>Armindo Alves</nome>
+	</obra>
+	<obra>
+		<id>m20</id>
+		<nome>Cassiopeia</nome>
+	</obra>
+	<obra>
+		<id>m21</id>
+		<nome>António Nogueira</nome>
+	</obra>
+	<obra>
+		<id>m22</id>
+		<nome>Marcha Eslava</nome>
+	</obra>
+	<obra>
+		<id>m23</id>
+		<nome>Fate of the Gods</nome>
+	</obra>
+	<obra>
+		<id>m24</id>
+		<nome>Vamos à Romaria</nome>
+	</obra>
+	<obra>
+		<id>m26</id>
+		<nome>Cycles and Myths</nome>
+	</obra>
+	<obra>
+		<id>m27</id>
+		<nome>Canções da Tradição</nome>
+	</obra>
+	<obra>
+		<id>m25</id>
+		<nome>Português Suave</nome>
+	</obra>
+	<obra>
+		<id>m28</id>
+		<nome>Abba Mia</nome>
+	</obra>
+	<obra>
+		<id>m29</id>
+		<nome>Ross Roy</nome>
+	</obra>
+	<obra>
+		<id>m3</id>
+		<nome>1989</nome>
+	</obra>
+	<obra>
+		<id>m31</id>
+		<nome>Highlights from 'Chess'</nome>
+	</obra>
+	<obra>
+		<id>m33</id>
+		<nome>Paquito Chocolatero</nome>
+	</obra>
+	<obra>
+		<id>m32</id>
+		<nome>Cavalaria Ligeira</nome>
+	</obra>
+	<obra>
+		<id>m34</id>
+		<nome>Xabia</nome>
+	</obra>
+	<obra>
+		<id>m35</id>
+		<nome>Bands Around the World</nome>
+	</obra>
+	<obra>
+		<id>m36</id>
+		<nome>Hispânico</nome>
+	</obra>
+	<obra>
+		<id>m4</id>
+		<nome>Manuel Joaquim ALmeida</nome>
+	</obra>
+	<obra>
+		<id>m40</id>
+		<nome>Xutos Medley</nome>
+	</obra>
+	<obra>
+		<id>m43</id>
+		<nome>Marcha Radetzky</nome>
+	</obra>
+	<obra>
+		<id>m42</id>
+		<nome>Pilatus: Mountain of Dragons</nome>
+	</obra>
+	<obra>
+		<id>m41</id>
+		<nome>Sonhos de Portugal</nome>
+	</obra>
+	<obra>
+		<id>m44</id>
+		<nome>Vila Franca</nome>
+	</obra>
+	<obra>
+		<id>m45</id>
+		<nome>Momentos Menores</nome>
+	</obra>
+	<obra>
+		<id>m47</id>
+		<nome>Bailar em Nespereira</nome>
+	</obra>
+	<obra>
+		<id>m46</id>
+		<nome>Santana</nome>
+	</obra>
+	<obra>
+		<id>m49</id>
+		<nome>Tannhauser Ouverture</nome>
+	</obra>
+	<obra>
+		<id>m50</id>
+		<nome>Harmonique</nome>
+	</obra>
+	<obra>
+		<id>m48</id>
+		<nome>Transfiguração</nome>
+	</obra>
+	<obra>
+		<id>m5</id>
+		<nome>Holiday in Rio</nome>
+	</obra>
+	<obra>
+		<id>m51</id>
+		<nome>Crucifixus</nome>
+	</obra>
+	<obra>
+		<id>m52</id>
+		<nome>Aguas do Botaréu</nome>
+	</obra>
+	<obra>
+		<id>m54</id>
+		<nome>Jigs: Duas Danças Tradicionais Irlandesas</nome>
+	</obra>
+	<obra>
+		<id>m53</id>
+		<nome>Fantasma da Ópera</nome>
+	</obra>
+	<obra>
+		<id>m55</id>
+		<nome>La Tuba Bregosa</nome>
+	</obra>
+	<obra>
+		<id>m56</id>
+		<nome>Cidade Esposende</nome>
+	</obra>
+	<obra>
+		<id>m57</id>
+		<nome>ABBA Gold</nome>
+	</obra>
+	<obra>
+		<id>m58</id>
+		<nome>Gibraltar</nome>
+	</obra>
+	<obra>
+		<id>m6</id>
+		<nome>São Martinho</nome>
+	</obra>
+	<obra>
+		<id>m59</id>
+		<nome>Moment for Morricone</nome>
+	</obra>
+	<obra>
+		<id>m61</id>
+		<nome>Pérola 59</nome>
+	</obra>
+	<obra>
+		<id>m60</id>
+		<nome>Poeta e Aldeão</nome>
+	</obra>
+	<obra>
+		<id>m62</id>
+		<nome>Immer Kleiner</nome>
+	</obra>
+	<obra>
+		<id>m63</id>
+		<nome>Filhos da Nação</nome>
+	</obra>
+	<obra>
+		<id>m64</id>
+		<nome>Horizonte da Razão</nome>
+	</obra>
+	<obra>
+		<id>m65</id>
+		<nome>Latin Pop Special</nome>
+	</obra>
+	<obra>
+		<id>m66</id>
+		<nome>La Storia</nome>
+	</obra>
+	<obra>
+		<id>m67</id>
+		<nome>Zé Pedro</nome>
+	</obra>
+	<obra>
+		<id>m69</id>
+		<nome>Concha</nome>
+	</obra>
+	<obra>
+		<id>m68</id>
+		<nome>Macarena</nome>
+	</obra>
+	<obra>
+		<id>m71</id>
+		<nome>Jerusalen</nome>
+	</obra>
+	<obra>
+		<id>m70</id>
+		<nome>Hosanna in excelsis</nome>
+	</obra>
+	<obra>
+		<id>m7</id>
+		<nome>Avé Maria</nome>
+	</obra>
+	<obra>
+		<id>m73</id>
+		<nome>A Portuguesa</nome>
+	</obra>
+	<obra>
+		<id>m74</id>
+		<nome>Juízo Final</nome>
+	</obra>
+	<obra>
+		<id>m72</id>
+		<nome>S. João de Braga</nome>
+	</obra>
+	<obra>
+		<id>m76</id>
+		<nome>Beira Mar</nome>
+	</obra>
+	<obra>
+		<id>m77</id>
+		<nome>St Thomas Coral</nome>
+	</obra>
+	<obra>
+		<id>m8</id>
+		<nome>Corpo Místico</nome>
+	</obra>
+	<obra>
+		<id>m75</id>
+		<nome>Guilherme Tell</nome>
+	</obra>
+	<obra>
+		<id>m78</id>
+		<nome>Volta a Portugal</nome>
+	</obra>
+	<obra>
+		<id>m79</id>
+		<nome>Piratas das Caraíbas: Suite Sinfónica</nome>
+	</obra>
+	<obra>
+		<id>m80</id>
+		<nome>Lusitanidades</nome>
+	</obra>
+	<obra>
+		<id>m81</id>
+		<nome>Freitas</nome>
+	</obra>
+	<obra>
+		<id>m83</id>
+		<nome>O Inferno</nome>
+	</obra>
+	<obra>
+		<id>m86</id>
+		<nome>Andres Contrabandista</nome>
+	</obra>
+	<obra>
+		<id>m85</id>
+		<nome>Una Noche en Granada</nome>
+	</obra>
+	<obra>
+		<id>m84</id>
+		<nome>Slavonic Rhapsody nº3</nome>
+	</obra>
+	<obra>
+		<id>m82</id>
+		<nome>Vale de Cambra - 100 anos</nome>
+	</obra>
+	<obra>
+		<id>m88</id>
+		<nome>Enrique López</nome>
+	</obra>
+	<obra>
+		<id>m87</id>
+		<nome>Marta Agustín</nome>
+	</obra>
+	<obra>
+		<id>m90</id>
+		<nome>Coldplay on Stage</nome>
+	</obra>
+	<obra>
+		<id>m9</id>
+		<nome>Súplica</nome>
+	</obra>
+	<obra>
+		<id>m89</id>
+		<nome>Libertadores</nome>
+	</obra>
+	<obra>
+		<id>m92</id>
+		<nome>Goddess Of Fire</nome>
+	</obra>
+	<obra>
+		<id>m91</id>
+		<nome>The Magic Of Christmas</nome>
+	</obra>
+	<obra>
+		<id>m93</id>
+		<nome>Português Cantado</nome>
+	</obra>
+	<obra>
+		<id>m3</id>
+		<nome>El Angel Blanco</nome>
+	</obra>
+	<obra>
+		<id>m97</id>
+		<nome>Marchas de Lisboa</nome>
+	</obra>
+	<obra>
+		<id>m93</id>
+		<nome>Led Zeppelin On Tour</nome>
+	</obra>
+	<obra>
+		<id>m99</id>
+		<nome>Selecção Quinta do Bill</nome>
+	</obra>
+	<obra>
+		<id>m98</id>
+		<nome>Fiesta de las Trompetas</nome>
+	</obra>
+	<obra>
+		<id>m119</id>
+		<nome>Roque em Português</nome>
+	</obra>
+	<obra>
+		<id>m16</id>
+		<nome>Homenagem ao Dr Manuel Vaz</nome>
+	</obra>
+	<obra>
+		<id>m96</id>
+		<nome>Innuendo</nome>
+	</obra>

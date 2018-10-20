@@ -1,0 +1,12 @@
+extends layout
+
+block corpo 
+    .w3-block 
+        .w3-center
+            h1(style="color:red") Arquivo de Música Digital
+    .w3-content 
+        .w3-light-grey
+            ul
+                each c in ind.obras.obra
+                    li
+                        a(href='http://localhost:6600/obra/'+c.id, style="text-decoration:none")= c.nome

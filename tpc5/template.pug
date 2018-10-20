@@ -1,0 +1,45 @@
+extends layout
+
+block corpo 
+    .w3-block 
+        .w3-center
+            h1(style="color:red")= obr.titulo
+            h3= obr.tipo
+            h3= obr.compositor
+
+    .w3-content 
+        h2(style="color:red") Partitura
+        .w3-light-grey
+                table.w3-table-all.w3-card-4
+                    tr.w3-black
+                        th Instrumento
+                        th Afinação
+                        th Voz
+                        th Clave
+                        th Doc
+                        
+                    each i in obr.instrumentos
+                        tr
+                            th= i.nome
+                            if i.partitura.afinacao
+                                th= i.partitura.afinacao
+                            else
+                                th 
+                            if i.partitura.voz
+                                th= i.partitura.voz
+                            else
+                                th
+                            if i.partitura.clave
+                                th= i.partitura.clave
+                            else
+                                th 
+                            if i.partitura.path
+                                th= i.partitura.path
+                            else
+                                th 
+        .w3-center
+            p 
+                i
+                    a(href="http://localhost:6600/index", style="text-decoration:none") [Voltar ao índice]
+                            
+                            
