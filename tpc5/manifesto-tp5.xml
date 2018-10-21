@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/Users/Joana/Desktop/plc/processamento_e_representa%C3%A7%C3%A3o_de_informa%C3%A7%C3%A3o/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TPC4</id>
+        <título>Gestão de um website utilizando servidores Node.js e ficheiros JSON de dataset.</título>
+        <subtítulo>Arquivo de Música Digital</subtítulo>
+        <dinício>15/10/2018</dinício>
+        <dfim>21/10/2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www4.di.uminho.pt/~jcr/</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A78275</id>
+            <nome>Joana Pereira</nome>
+            <email>a78275@alunos.uminho.pt</email>
+            <foto path="https://i.imgur.com/OvatUH5.png"/>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>O trabalho aqui introduzido aborda a utilização de servidores <i>web</i> para a gestão de um <i>website</i> sobre um Arquivo de Música Digital.</para>
+        <para>Para este trabalho foram desenvolvidos dois tipos de ficheiros: um para o servidor e outro para o estilo das páginas do <i>website</i> geradas.</para>
+        <para>Relativamente ao servidor, este foi desenvolvido para receber pedidos na porta <b>6600</b>. Este recebe 3 tipos de pedidos diferentes. Um deles quando o utilizador solicita a página de índice (esta página é criada em formato <i>XML</i> quando o servidor é inicializado), outro quando solicita uma das obras do índice, e finalmente quando cada uma destas solicita o ficheiro <b>css</b>.</para>
+        <para>Quanto aos ficheiros de estilo, estes foram desenvolvidos em <b>pug</b> e definem o estilo da página de índice e da página de cada obra.</para>
+    </resumo>
+    <resultados>
+        <resultado path="server.js">Servidor Node.js.</resultado>
+        <resultado path="localhost:6600/index">Página inicial com o índice do website.</resultado>
+        <resultado path="https://github.com/a78275/pri.git">Link do repositório git onde se encontra o trabalho.</resultado>
+    </resultados>
+</manifesto>
+
