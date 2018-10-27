@@ -1,0 +1,28 @@
+extends layout-black
+block corpo
+    .w3-section.w3-container
+        .w3-card-4
+            header.w3-container.w3-teal
+                h2 Teses Recebidas
+            table.w3-table-all  
+                tr
+                    th Nome 
+                    th Identificador
+                    th Curso
+                    th Instituição
+                    th Título
+                    th Data
+                    th Tipo
+                each t in lista
+                    tr
+                        td= t.nome
+                        td= t.identificador
+                        td= t.curso
+                        td= t.instituicao
+                        td= t.titulo
+                        td= t.data
+                        td= t.tipo
+            footer.w3-container.w3-teal
+                address 
+                    i
+                        a(href='http://localhost:4006/paginicial', style="text-decoration:none") Voltar à página inicial
