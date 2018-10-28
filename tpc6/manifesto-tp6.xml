@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/Users/Joana/Desktop/plc/processamento_e_representa%C3%A7%C3%A3o_de_informa%C3%A7%C3%A3o/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TPC4</id>
+        <título>Aplicação para submissão de teses.</título>
+        <dinício>21/10/2018</dinício>
+        <dfim>29/10/2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www4.di.uminho.pt/~jcr/</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A78275</id>
+            <nome>Joana Pereira</nome>
+            <email>a78275@alunos.uminho.pt</email>
+            <foto path="https://i.imgur.com/OvatUH5.png"/>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>O trabalho aqui introduzido aborda a utilização de servidores <i>web</i> para a gestão de uma <b>aplicação</b> para submissão de teses.</para>
+        <para>Para este trabalho foram desenvolvidos dois tipos de ficheiros: um para o servidor e outro para o estilo das páginas da <b>aplicação</b> gerada.</para>
+        <para>Relativamente ao servidor, este foi desenvolvido para receber pedidos na porta <b>4006</b>. Este recebe vários tipos de pedidos diferentes de dois métodos diferentes: <i>GET</i> e <i>POST</i>. Relativamente ao método <i>GET</i>, o servidor pode aceitar pedidos para aceder à página inicial, registar e processar o registo de uma tese, listar todas as teses e solicitar o ficheiro <b>css</b> de estilo da página. Relativamente ao método <i>POST</i>, o servidor pode aceitar pedidos para processar o registo de uma tese. Aqui, o registo é guardado num ficheiro <b>JSON</b>.</para>
+        <para>Quanto aos ficheiros de estilo, estes foram desenvolvidos em <b>pug</b> e definem o estilo da página inicial, de registo, de processamento do registo, de listagem das teses e de erro.</para>
+    </resumo>
+    <resultados>
+        <resultado path="server.js">Servidor Node.js.</resultado>
+        <resultado path="localhost:4006/paginicial">Página inicial da aplicação.</resultado>
+        <resultado path="https://github.com/a78275/pri.git">Link do repositório git onde se encontra o trabalho.</resultado>
+    </resultados>
+</manifesto>
+
